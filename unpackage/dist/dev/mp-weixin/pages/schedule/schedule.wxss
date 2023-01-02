@@ -1,0 +1,20 @@
+
+.input {
+    border-bottom: 1px solid #ccc;
+    padding: 6rpx;
+    flex: 1;
+}
+.content {
+    display: flex;
+    align-items: center;
+    margin: 40rpx;
+}
+.box {
+    margin: 40rpx;
+    border-bottom: 1px solid #ccc;
+    padding: 20rpx 0;
+}
+.example-body {
+    background-color: #fff;
+    padding: 10px;
+}

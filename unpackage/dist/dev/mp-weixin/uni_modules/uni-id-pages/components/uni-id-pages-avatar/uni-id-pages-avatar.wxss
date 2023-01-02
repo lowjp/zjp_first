@@ -1,0 +1,23 @@
+
+.box {
+    overflow: hidden;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.chooseAvatar {
+
+    display: inline-block;
+    box-sizing: border-box;
+
+    border: dotted 1px #ddd;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1px;
+}
+.showBorder {
+    border: solid 1px #ddd;
+}
